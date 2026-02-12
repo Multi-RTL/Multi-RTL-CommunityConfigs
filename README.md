@@ -131,11 +131,6 @@ See demos and user guide on https://multi-rtl.interact-ed.online
 ### Changed
 - **Free Features**: Export Config and Add Selector are now free for all users. Only Import Config remains a premium feature.
 
-### Fixed
-- **PayVia License Validation**: Fixed license validation to correctly identify paid users by sending email and plan ID to the API.
-- **Production URLs**: Fixed redirect URLs from localhost to production (multi-rtl.interact-ed.online).
-- **Minified Build**: Added payvia-config.js to the build pipeline so premium features work in the minified version.
-
 ## v5.0.1
 
 ### Improved
@@ -149,11 +144,8 @@ See demos and user guide on https://multi-rtl.interact-ed.online
 ## v5.0.0
 
 ### Added
-- **Premium Features**: Integrated PayVia for handling premium subscriptions (Annual & Lifetime).
+- **Premium Features**: Added subscriptions based (Annual & Lifetime) premium features (Import /Export config and Add Selector).
 - **User Authentication**: Secure identification via Google Identity for cross-device license validation.
-- **Improved Landing Page**: New pricing section and streamlined checkout process.
-- **Licensing System**: Robust cloud verification for premium status.
-- **Permissions**: Added `identity` and `identity.email` permissions for secure user identification.
 
 ## v4.3.0
 
@@ -225,6 +217,7 @@ This release is a major UX and workflow upgrade focused on making selector setup
 
 - Show release notes to the user once after upgrading to v4.0.0 (first usage per version), using this document as the source.
 - Scan current page to auto-generate selectors based on RTL content detection
+
 
 
 
