@@ -1,7 +1,7 @@
 ⬅️➡️ The first chrome extension that provides configurable Right-to-Left (RTL) text alignment support for ANY website!
 
 תוסף הכרום הראשון המאפשר יישור טקסטים לימין לכל אתר, באופן דינאמי
-!ומשאיר את החלקים הרלוונטיים (דוגמאות קוד, משוואות מתמטיות) מיושרים לשמאל
+ומשאיר את החלקים הרלוונטיים (דוגמאות קוד, משוואות מתמטיות) מיושרים לשמאל!
 
 أول إضافة كروم تمكّن محاذاة النصوص لليمين، لأي موقع ويب، بشكل ديناميكي وتترك الأجزاء ذات الصلة (أمثلة الأكواد، المعادلات الرياضية) محاذاة لليسار!
 
@@ -10,17 +10,17 @@ Align Hebrew / Arabic / Persian text to Right-to-Left (while keeping non-RTL lef
 Comes pre-configured for ChatGPT, Gemini, Claude.ai, NotebookLM and Slack and enables you to
 configure any DOM selectors in any web site to automatically detect and apply RTL alignment.
 
-!מגיע מוגדר מראש עבור אתרים כגון צ'אט ג'פיטי, ג'מיני, קלוד, נוטבוק, סלאק ועוד
-!ומאפשר להגדיר אלמנטים ליישור לימין בכל אתר
+מגיע מוגדר מראש עבור אתרים כגון צ'אט ג'פיטי, ג'מיני, קלוד, נוטבוק, סלאק ועוד!
+ומאפשר להגדיר אלמנטים ליישור לימין בכל אתר!
 
 Struggling with reading Hebrew/Arabic on websites that don't support RTL properly?
 Struggling with reading twisted Math Formulas in ChatGPT in Hebrew conversations?
 
 Multi-RTL is here to fix that !!
 
-?מתקשים לקרוא עברית באתרים שלא תומכים ביישור טקסטים לימין כמו שצריך
-?מתקשים לקרוא נוסחאות מתמטיות מסובכות בצ'אט ג'יפיטי או בקלוד בשיחות בעברית
-!התוסף הזה בדיוק בשבילכם
+מתקשים לקרוא עברית באתרים שלא תומכים ביישור טקסטים לימין כמו שצריך?
+מתקשים לקרוא נוסחאות מתמטיות מסובכות בצ'אט ג'יפיטי או בקלוד בשיחות בעברית?
+התוסף הזה בדיוק בשבילכם!
 
 
 See demos and user guide on:
@@ -225,5 +225,6 @@ This release is a major UX and workflow upgrade focused on making selector setup
 
 - Show release notes to the user once after upgrading to v4.0.0 (first usage per version), using this document as the source.
 - Scan current page to auto-generate selectors based on RTL content detection
+
 
 
