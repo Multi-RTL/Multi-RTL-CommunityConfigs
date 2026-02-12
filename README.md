@@ -66,13 +66,9 @@ https://multi-rtl.interact-ed.online
 ✅ **Pre-configured** - The extension comes pre-configured for popular AI chat platforms and collaboration tools:
 
 - **ChatGPT** (chatgpt.com)
-- 
 - **Google Gemini** (gemini.google.com)
-- 
 - **Claude.ai** (claude.ai)
-- 
 - **Slack** (app.slack.com)
-- 
 - **NotebookLM** (notebooklm.google.com)
 - 
 Just visit these sites and RTL text will automatically align to the right!
@@ -229,4 +225,5 @@ This release is a major UX and workflow upgrade focused on making selector setup
 
 - Show release notes to the user once after upgrading to v4.0.0 (first usage per version), using this document as the source.
 - Scan current page to auto-generate selectors based on RTL content detection
+
 
