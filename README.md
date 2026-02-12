@@ -59,7 +59,7 @@ https://multi-rtl.interact-ed.online
 
 ⏱️ **Load Delay** - Configure per-domain delay for late-loading content
 
-💾 ** Smart Import/Export**: Backup your settings or share configurations. Imports now merge with your existing settings!
+💾 **Smart Import/Export**: Backup your settings or share configurations. Imports now merge with your existing settings!
 
 ⭐ **Premium Features** - Unlock advanced capabilities with an affordable lifetime subscription
 
@@ -225,6 +225,7 @@ This release is a major UX and workflow upgrade focused on making selector setup
 
 - Show release notes to the user once after upgrading to v4.0.0 (first usage per version), using this document as the source.
 - Scan current page to auto-generate selectors based on RTL content detection
+
 
 
 
