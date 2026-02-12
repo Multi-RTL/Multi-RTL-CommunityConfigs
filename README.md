@@ -32,27 +32,49 @@ https://multi-rtl.interact-ed.online
 ## ✨ Features
 
 🌐 **Universal Support** - Works with any website!
+
 🎯 **Auto-Detection** - Automatically detects Hebrew, Arabic, and Persian for auto-RTL using the Unicode BiDi first-strong-character algorithm
+
 📐 **Math Formula Support** - Correctly aligns mathematical formulas (KaTeX/LaTeX) in RTL contexts
+
 🔄 **Real-time Processing** - Works with streaming/dynamic content
+
 ⚙️ **Per-Domain Configuration** - Configure different selectors for each domain
+
 🔍 **Element Picker** - Click an in-popup 🔍 to pick an element on the page and build a reliable selector easily.
+
 🎛️ **Master Toggle** - Enable/disable all selectors for a domain with one switch
+
 ⌨️ **Keyboard Shortcut** - Press `Ctrl+Shift+H` to toggle Master switch
+
 ⌨️ **Customizable Shortcuts**: Set your own preferred keyboard shortcut for the Master Toggle
+
 🔘 **Individual Selectors** - Enable/disable each selector independently
+
 🎨 **Advanced Style Controls** - Control direction (dir) and text-align separately
+
 ⚡ **Force RTL Mode** - Skip content inspection and force RTL for specific selectors
+
 👀 **Visual Highlight**: Hover over selectors in the list to instantly see which elements they match on the page
+
 ⏱️ **Load Delay** - Configure per-domain delay for late-loading content
+
 💾 ** Smart Import/Export**: Backup your settings or share configurations. Imports now merge with your existing settings!
+
 ⭐ **Premium Features** - Unlock advanced capabilities with an affordable lifetime subscription
+
 ✅ **Pre-configured** - The extension comes pre-configured for popular AI chat platforms and collaboration tools:
+
 - **ChatGPT** (chatgpt.com)
+- 
 - **Google Gemini** (gemini.google.com)
+- 
 - **Claude.ai** (claude.ai)
+- 
 - **Slack** (app.slack.com)
+- 
 - **NotebookLM** (notebooklm.google.com)
+- 
 Just visit these sites and RTL text will automatically align to the right!
 
 ### Configure it for any website:
@@ -207,3 +229,4 @@ This release is a major UX and workflow upgrade focused on making selector setup
 
 - Show release notes to the user once after upgrading to v4.0.0 (first usage per version), using this document as the source.
 - Scan current page to auto-generate selectors based on RTL content detection
+
